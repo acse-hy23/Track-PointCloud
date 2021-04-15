@@ -1,8 +1,0 @@
-/Users/youhao/PointCloud/TrackPointCloud/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/youhao/PointCloud/TrackPointCloud/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/youhao/PointCloud/TrackPointCloud/cmake-build-debug/CMakeFiles/OLS_double.dir
-/Users/youhao/PointCloud/TrackPointCloud/cmake-build-debug/CMakeFiles/PCDRead.dir
-/Users/youhao/PointCloud/TrackPointCloud/cmake-build-debug/CMakeFiles/txt_converter.dir
-/Users/youhao/PointCloud/TrackPointCloud/cmake-build-debug/CMakeFiles/PointCloudHough.dir
-/Users/youhao/PointCloud/TrackPointCloud/cmake-build-debug/CMakeFiles/OLS.dir
-/Users/youhao/PointCloud/TrackPointCloud/cmake-build-debug/CMakeFiles/Visualize.dir
